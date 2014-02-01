@@ -1,7 +1,7 @@
 class Array
 
-  def injecting
-    true      
+  def injecting(*acc)
+    acc
   end
 
 end

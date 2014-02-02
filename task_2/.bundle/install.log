@@ -1,0 +1,6 @@
+# Logfile created on 2014-02-02 17:20:08 +0000 by logger.rb/44203
+I, [2014-02-02T17:20:08.401453 #27459]  INFO -- : 0:  builder (3.2.2) from /Users/makis/.rvm/gems/ruby-2.1.0/specifications/builder-3.2.2.gemspec
+I, [2014-02-02T17:20:08.402091 #27459]  INFO -- : 0:  multi_json (1.8.4) from /Users/makis/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-02T17:20:09.350709 #27459]  INFO -- : 0:  jwt (0.1.11) from /Users/makis/.rvm/gems/ruby-2.1.0/specifications/jwt-0.1.11.gemspec
+I, [2014-02-02T17:20:10.576660 #27459]  INFO -- : 0:  twilio-ruby (3.11.4) from /Users/makis/.rvm/gems/ruby-2.1.0/specifications/twilio-ruby-3.11.4.gemspec
+I, [2014-02-02T17:20:10.577118 #27459]  INFO -- : 0:  bundler (1.5.1) from /Users/makis/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

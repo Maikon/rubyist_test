@@ -8,7 +8,6 @@ class Takeaway
   }
 
   def initialize
-    @menu = MENU
     @order = []
   end
 
